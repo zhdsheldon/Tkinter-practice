@@ -1,4 +1,5 @@
 #program 1
+#classic tkinter
 import tkinter as tk
 
 window = tk.Tk()
@@ -11,4 +12,7 @@ window.mainloop()
 #They’re the elements through which users interact with your program.
 #Each widget in Tkinter is defined by a class.
 #Reference:https://realpython.com/python-gui-tkinter/
+
+#Program 2
+
 
