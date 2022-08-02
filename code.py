@@ -2,8 +2,8 @@
 import tkinter as tk
 
 window = tk.Tk()
-greeting = tk.Label(text="neuroscience is fascinating") #A widget used to display text on the screen
-greeting.pack()
+neuroscience = tk.Label(text="neuroscience is fascinating") #A widget used to display text on the screen
+neuroscience.pack()
 
 window.mainloop()
 
